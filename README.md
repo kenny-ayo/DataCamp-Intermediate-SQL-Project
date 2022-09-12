@@ -1,7 +1,7 @@
 # DataCamp-Intermediate-SQL-Project
-After taking SQL courses on Datacamp, I decided to lay my hands on the intermediate SQL Projects
+After taking SQL courses on Datacamp, I decided to lay my hands on the intermediate SQL Projects and Joining Data SQL Projects
 
-Project Description:
+Project Description for Intermediate SQL:
 
 Every year, school test results play a role in deciding the fate of millions of students. In America, the SAT is a major part of the college admissions process.
 
